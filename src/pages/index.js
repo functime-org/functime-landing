@@ -57,7 +57,7 @@ const descriptionStyle = {
 
 const docLink = {
   text: 'GitHub repo',
-  url: 'https://github.com/neocortexdb/functime',
+  url: 'https://github.com/TracecatHQ/functime',
   color: '#8954A8',
 };
 
