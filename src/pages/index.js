@@ -87,7 +87,7 @@ const links = [
   },
   {
     text: 'Tutorial',
-    url: 'https://docs.functime.ai/forecasting/',
+    url: 'https://docs.functime.ai/user-guide/forecasting/',
     description:
       "A great place to get started if you're new to ML forecasting. Designed to guide you through your first end-to-end forecasting pipeline.",
     color: '#1099A8',
@@ -108,7 +108,7 @@ const links = [
   },
   {
     text: 'API Reference',
-    url: 'https://docs.functime.ai/ref/forecasting/',
+    url: 'https://docs.functime.ai/api-reference/forecasting/',
     description:
       "Detailed information about functime's API.",
     color: '#8EB814',
