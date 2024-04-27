@@ -1,4 +1,4 @@
-# Gatsby
+# 🔮 functime.ai Landing page
 
 This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app that can be deployed to Vercel with zero configuration.
 
